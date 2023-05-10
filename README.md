@@ -1,7 +1,6 @@
 - 👋 hi, i’m @chloeegong
 - 👀 studying computer science at lb
 - 🌱 writing code at microsoft  
-- 💞️ building communities at beachhacks
 - 📫 say hi! twitter @chllooeeeeeee 
 
 <!---
