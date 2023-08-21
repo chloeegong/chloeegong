@@ -1,7 +1,6 @@
 - 👋 hi, i’m @chloeegong
-- 👀 studying computer science at lb
 - 🌱 writing code at microsoft  
-- 📫 say hi! twitter @chllooeeeeeee 
+- 📫 say hi! twitter/X @chllooeeeeeee 
 
 <!---
 chloeegong/chloeegong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
